@@ -24,7 +24,7 @@
 
 ## 🖥️ **Installation**
 
-1. Download the latest release from the [Releases Section](#).
+1. Download the latest release from the [Releases Section](https://github.com/sambeauprak/dragondoro/releases).
 2. Extract the ZIP file and run `Dragondoro.exe`.
 3. Done! 🎉
 
