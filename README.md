@@ -4,7 +4,6 @@
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-
 ---
 
 **Dragondoro** is an intrusive **Pomodoro Timer** for Windows, built using Flutter. It forces you to stay productive by locking your session when the focus timer ends and ensuring you return to work after breaks through subtle, yet effective, notifications like **keyboard tap sounds** and **desktop notifications**.
